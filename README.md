@@ -1,2 +1,2 @@
 # LanguageProcessorForC
-IPL Lab
+Course Project: Implementation of Programming Languages Lab (CS 316)
